@@ -1,0 +1,263 @@
+# VEXA-09 召回库清单 (manifest)
+
+> 自动生成。列出 combat/shotcraft/abilities/films 四库全部卡片。
+> 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
+> raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
+> 更新: 2026-06-15 23:06
+
+## combat (62)
+- FM-001_combat.md — 侵略机器
+- FM-002_combat.md — 木乃伊
+- FM-003_combat.md — 木乃伊归来
+- FM-004_combat.md — 木乃伊3：龙帝之墓
+- FM-005_combat.md — 阿丽塔：战斗天使
+- FM-006_combat.md — 银翼杀手2049
+- FM-007_combat.md — 攻壳机动队
+- FM-008_combat.md — 蜘蛛侠
+- FM-009_combat.md — 蜘蛛侠2
+- FM-010_combat.md — 蜘蛛侠3
+- FM-011_combat.md — 超凡蜘蛛侠
+- FM-012_combat.md — 超凡蜘蛛侠2
+- FM-013_combat.md — 钢铁侠
+- FM-014_combat.md — 钢铁侠2
+- FM-015_combat.md — 钢铁侠3
+- FM-016_combat.md — 蝙蝠侠：侠影之谜
+- FM-017_combat.md — 蝙蝠侠：黑暗骑士
+- FM-018_combat.md — 蝙蝠侠：黑暗骑士崛起
+- FM-019_combat.md — 异形大战铁血战士
+- FM-020_combat.md — 美国队长
+- FM-021_combat.md — 新木乃伊
+- FM-022_combat.md — 哈利·波特与魔法石
+- FM-023_combat.md — 哈利波特与火焰杯
+- FM-024_combat.md — 哈利·波特与凤凰社
+- FM-025_combat.md — 哈利波特与混血王子
+- FM-026_combat.md — 哈利波特与死亡圣器
+- FM-027_combat.md — 哈利·波特与阿兹卡班的囚徒
+- FM-028_combat.md — 哈利·波特与密室
+- FM-029_combat.md — 金刚狼
+- FM-030_combat.md — 金刚狼2
+- FM-031_combat.md — 金刚狼3：殊死一战
+- FM-032_combat.md — 华 强 不 在
+- FM-033_combat.md — 变形金刚
+- FM-034_combat.md — 变形金刚2
+- FM-035_combat.md — 变形金刚3
+- FM-036_combat.md — 变形金刚4：绝迹重生
+- FM-037_combat.md — 变形金刚5：最后的骑士
+- FM-038_combat.md — 异形
+- FM-039_combat.md — 异形2
+- FM-040_combat.md — 普罗米修斯
+- FM-041_combat.md — 异形：契约
+- FM-042_combat.md — 异形：夺命舰
+- FM-043_combat.md — 黑客帝国
+- FM-044_combat.md — 沙丘
+- FM-045_combat.md — 疯狂麦克斯：狂暴之路
+- FM-046_combat.md — 疾速追杀
+- FM-047_combat.md — 机械姬
+- FM-048_combat.md — 曼达洛人 第一季
+- FM-049_combat.md — 加勒比海盗1：黑珍珠号的诅咒
+- FM-050_combat.md — 加勒比海盗2：聚魂棺
+- FM-051_combat.md — 加勒比海盗3：世界尽头
+- FM-052_combat.md — 加勒比海盗4：惊涛怪浪
+- FM-053_combat.md — 加勒比海盗5：死无对证
+- FM-054_combat.md — 银翼杀手
+- FM-055_combat.md — 明日世界
+- FM-056_combat.md — 阿凡达
+- FM-057_combat.md — 阿凡达：水之道
+- FM-058_combat.md — 蚁人
+- FM-059_combat.md — 蚁人2：黄蜂女现身
+- FM-060_combat.md — 蚁人3：量子狂潮
+- FM-061_combat.md — 奇异博士
+- FM-062_combat.md — 奇异博士2：疯狂多元宇宙
+
+## shotcraft (62)
+- FM-001_shotcraft.md — 侵略机器
+- FM-002_shotcraft.md — 木乃伊
+- FM-003_shotcraft.md — 木乃伊归来
+- FM-004_shotcraft.md — 木乃伊3：龙帝之墓
+- FM-005_shotcraft.md — 阿丽塔：战斗天使
+- FM-006_shotcraft.md — 银翼杀手2049
+- FM-007_shotcraft.md — 攻壳机动队
+- FM-008_shotcraft.md — 蜘蛛侠
+- FM-009_shotcraft.md — 蜘蛛侠2
+- FM-010_shotcraft.md — 蜘蛛侠3
+- FM-011_shotcraft.md — 超凡蜘蛛侠
+- FM-012_shotcraft.md — 超凡蜘蛛侠2
+- FM-013_shotcraft.md — 钢铁侠
+- FM-014_shotcraft.md — 钢铁侠2
+- FM-015_shotcraft.md — 钢铁侠3
+- FM-016_shotcraft.md — 蝙蝠侠：侠影之谜
+- FM-017_shotcraft.md — 蝙蝠侠：黑暗骑士
+- FM-018_shotcraft.md — 蝙蝠侠：黑暗骑士崛起
+- FM-019_shotcraft.md — 异形大战铁血战士
+- FM-020_shotcraft.md — 美国队长
+- FM-021_shotcraft.md — 新木乃伊
+- FM-022_shotcraft.md — 哈利·波特与魔法石
+- FM-023_shotcraft.md — 哈利波特与火焰杯
+- FM-024_shotcraft.md — 哈利·波特与凤凰社
+- FM-025_shotcraft.md — 哈利波特与混血王子
+- FM-026_shotcraft.md — 哈利波特与死亡圣器
+- FM-027_shotcraft.md — 哈利·波特与阿兹卡班的囚徒
+- FM-028_shotcraft.md — 哈利·波特与密室
+- FM-029_shotcraft.md — 金刚狼
+- FM-030_shotcraft.md — 金刚狼2
+- FM-031_shotcraft.md — 金刚狼3：殊死一战
+- FM-032_shotcraft.md — 华 强 不 在
+- FM-033_shotcraft.md — 变形金刚
+- FM-034_shotcraft.md — 变形金刚2
+- FM-035_shotcraft.md — 变形金刚3
+- FM-036_shotcraft.md — 变形金刚4：绝迹重生
+- FM-037_shotcraft.md — 变形金刚5：最后的骑士
+- FM-038_shotcraft.md — 异形
+- FM-039_shotcraft.md — 异形2
+- FM-040_shotcraft.md — 普罗米修斯
+- FM-041_shotcraft.md — 异形：契约
+- FM-042_shotcraft.md — 异形：夺命舰
+- FM-043_shotcraft.md — 黑客帝国
+- FM-044_shotcraft.md — 沙丘
+- FM-045_shotcraft.md — 疯狂麦克斯：狂暴之路
+- FM-046_shotcraft.md — 疾速追杀
+- FM-047_shotcraft.md — 机械姬
+- FM-048_shotcraft.md — 曼达洛人 第一季
+- FM-049_shotcraft.md — 加勒比海盗1：黑珍珠号的诅咒
+- FM-050_shotcraft.md — 加勒比海盗2：聚魂棺
+- FM-051_shotcraft.md — 加勒比海盗3：世界尽头
+- FM-052_shotcraft.md — 加勒比海盗4：惊涛怪浪
+- FM-053_shotcraft.md — 加勒比海盗5：死无对证
+- FM-054_shotcraft.md — 银翼杀手
+- FM-055_shotcraft.md — 明日世界
+- FM-056_shotcraft.md — 阿凡达
+- FM-057_shotcraft.md — 阿凡达：水之道
+- FM-058_shotcraft.md — 蚁人
+- FM-059_shotcraft.md — 蚁人2：黄蜂女现身
+- FM-060_shotcraft.md — 蚁人3：量子狂潮
+- FM-061_shotcraft.md — 奇异博士
+- FM-062_shotcraft.md — 奇异博士2：疯狂多元宇宙
+
+## abilities (62)
+- FM-001_abilities.md — 侵略机器
+- FM-002_abilities.md — 木乃伊
+- FM-003_abilities.md — 木乃伊归来
+- FM-004_abilities.md — 木乃伊3：龙帝之墓
+- FM-005_abilities.md — 阿丽塔：战斗天使
+- FM-006_abilities.md — 银翼杀手2049
+- FM-007_abilities.md — 攻壳机动队
+- FM-008_abilities.md — 蜘蛛侠
+- FM-009_abilities.md — 蜘蛛侠2
+- FM-010_abilities.md — 蜘蛛侠3
+- FM-011_abilities.md — 超凡蜘蛛侠
+- FM-012_abilities.md — 超凡蜘蛛侠2
+- FM-013_abilities.md — 钢铁侠
+- FM-014_abilities.md — 钢铁侠2
+- FM-015_abilities.md — 钢铁侠3
+- FM-016_abilities.md — 蝙蝠侠：侠影之谜
+- FM-017_abilities.md — 蝙蝠侠：黑暗骑士
+- FM-018_abilities.md — 蝙蝠侠：黑暗骑士崛起
+- FM-019_abilities.md — 异形大战铁血战士
+- FM-020_abilities.md — 美国队长
+- FM-021_abilities.md — 新木乃伊
+- FM-022_abilities.md — 哈利·波特与魔法石
+- FM-023_abilities.md — 哈利波特与火焰杯
+- FM-024_abilities.md — 哈利·波特与凤凰社
+- FM-025_abilities.md — 哈利波特与混血王子
+- FM-026_abilities.md — 哈利波特与死亡圣器
+- FM-027_abilities.md — 哈利·波特与阿兹卡班的囚徒
+- FM-028_abilities.md — 哈利·波特与密室
+- FM-029_abilities.md — 金刚狼
+- FM-030_abilities.md — 金刚狼2
+- FM-031_abilities.md — 金刚狼3：殊死一战
+- FM-032_abilities.md — 华 强 不 在
+- FM-033_abilities.md — 变形金刚
+- FM-034_abilities.md — 变形金刚2
+- FM-035_abilities.md — 变形金刚3
+- FM-036_abilities.md — 变形金刚4：绝迹重生
+- FM-037_abilities.md — 变形金刚5：最后的骑士
+- FM-038_abilities.md — 异形
+- FM-039_abilities.md — 异形2
+- FM-040_abilities.md — 普罗米修斯
+- FM-041_abilities.md — 异形：契约
+- FM-042_abilities.md — 异形：夺命舰
+- FM-043_abilities.md — 黑客帝国
+- FM-044_abilities.md — 沙丘
+- FM-045_abilities.md — 疯狂麦克斯：狂暴之路
+- FM-046_abilities.md — 疾速追杀
+- FM-047_abilities.md — 机械姬
+- FM-048_abilities.md — 曼达洛人 第一季
+- FM-049_abilities.md — 加勒比海盗1：黑珍珠号的诅咒
+- FM-050_abilities.md — 加勒比海盗2：聚魂棺
+- FM-051_abilities.md — 加勒比海盗3：世界尽头
+- FM-052_abilities.md — 加勒比海盗4：惊涛怪浪
+- FM-053_abilities.md — 加勒比海盗5：死无对证
+- FM-054_abilities.md — 银翼杀手
+- FM-055_abilities.md — 明日世界
+- FM-056_abilities.md — 阿凡达
+- FM-057_abilities.md — 阿凡达：水之道
+- FM-058_abilities.md — 蚁人
+- FM-059_abilities.md — 蚁人2：黄蜂女现身
+- FM-060_abilities.md — 蚁人3：量子狂潮
+- FM-061_abilities.md — 奇异博士
+- FM-062_abilities.md — 奇异博士2：疯狂多元宇宙
+
+## films (63)
+- FM-001 War Machine 侵略机器.md — 侵略机器
+- FM-002 The Mummy 木乃伊.md — 木乃伊
+- FM-003 The Mummy Returns 木乃伊归来.md — 木乃伊归来
+- FM-004 Tomb of Dragon Emperor 龙帝之墓.md — 木乃伊3：龙帝之墓
+- FM-005 Alita Battle Angel 阿丽塔战斗天使.md — 阿丽塔：战斗天使
+- FM-006 Blade Runner 2049 银翼杀手2049.md — 银翼杀手2049
+- FM-007 Ghost in the Shell 攻壳机动队.md — 攻壳机动队
+- FM-008_Spider-Man_蜘蛛侠.md — 蜘蛛侠
+- FM-009_Spider-Man_2_蜘蛛侠.md — 蜘蛛侠2
+- FM-010_Spider-Man_3_蜘蛛侠.md — 蜘蛛侠3
+- FM-011_The_Amazing_Spider-Man_超凡蜘蛛侠.md — 超凡蜘蛛侠
+- FM-012_The_Amazing_Spider-Man_2_超凡蜘蛛侠.md — 超凡蜘蛛侠2
+- FM-013_Iron_Man_钢铁侠.md — 钢铁侠
+- FM-014_Iron_Man_2_钢铁侠.md — 钢铁侠2
+- FM-015_Iron_Man_3_钢铁侠.md — 钢铁侠3
+- FM-016_Batman_Begins_蝙蝠侠侠影之谜.md — 蝙蝠侠：侠影之谜
+- FM-017_The_Dark_Knight_蝙蝠侠黑暗骑士.md — 蝙蝠侠：黑暗骑士
+- FM-018_The_Dark_Knight_Rises_蝙蝠侠黑暗骑士崛起.md — 蝙蝠侠：黑暗骑士崛起
+- FM-019_Alien_vs_Predator_异形大战铁血战士.md — 异形大战铁血战士
+- FM-020_Captain_America_The_First_Avenger_美国队长.md — 美国队长
+- FM-021_The_Mummy_新木乃伊.md — 新木乃伊
+- FM-022_Harry_Potter_and_the_Philosophers_Stone_哈利波特与魔法石.md — 哈利·波特与魔法石
+- FM-023_Harry_Potter_and_the_Goblet_of_Fire_哈利波特与火焰杯.md — 哈利波特与火焰杯
+- FM-024_Harry_Potter_and_the_Order_of_the_Phoenix_哈利波特与凤凰社.md — 哈利·波特与凤凰社
+- FM-025_Harry_Potter_and_the_Half-Blood_Prince_哈利波特与混血王子.md — 哈利波特与混血王子
+- FM-026_Harry_Potter_and_the_Deathly_Hallows_哈利波特与死亡圣器.md — 哈利波特与死亡圣器
+- FM-027_Harry_Potter_and_the_Prisoner_of_Azkaban_哈利波特与阿兹卡班的囚徒.md — 哈利·波特与阿兹卡班的囚徒
+- FM-028_Harry_Potter_and_the_Chamber_of_Secrets_哈利波特与密室.md — 哈利·波特与密室
+- FM-029_X-Men_Origins_Wolverine_金刚狼.md — 金刚狼
+- FM-030_The_Wolverine_金刚狼.md — 金刚狼2
+- FM-031_Logan_金刚狼殊死一战.md — 金刚狼3：殊死一战
+- FM-032_Unknown_华强不在.md — 华 强 不 在
+- FM-033_Transformers_变形金刚.md — 变形金刚
+- FM-034_Transformers_Revenge_of_the_Fallen_变形金刚.md — 变形金刚2
+- FM-035_Transformers_Dark_of_the_Moon_变形金刚.md — 变形金刚3
+- FM-036_Transformers_Age_of_Extinction_变形金刚绝迹重生.md — 变形金刚4：绝迹重生
+- FM-037_Transformers_The_Last_Knight_变形金刚最后的骑士.md — 变形金刚5：最后的骑士
+- FM-038_Alien_异形.md — 异形
+- FM-039_Aliens_异形.md — 异形2
+- FM-040_Prometheus_普罗米修斯.md — 普罗米修斯
+- FM-041_Alien_Covenant_异形契约.md — 异形：契约
+- FM-042_Alien_Romulus_异形夺命舰.md — 异形：夺命舰
+- FM-043_The_Matrix_黑客帝国.md — 黑客帝国
+- FM-044_Dune_沙丘.md — 沙丘
+- FM-045_Mad_Max_Fury_Road_疯狂麦克斯狂暴之路.md — 疯狂麦克斯：狂暴之路
+- FM-046_John_Wick_疾速追杀.md — 疾速追杀
+- FM-047_Ex_Machina_机械姬.md — 机械姬
+- FM-048_The_Mandalorian_Season_1_曼达洛人第一季.md — 曼达洛人 第一季
+- FM-049_Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_加勒比海盗黑珍珠号的诅咒.md — 加勒比海盗1：黑珍珠号的诅咒
+- FM-050_Pirates_of_the_Caribbean_Dead_Mans_Chest_加勒比海盗聚魂棺.md — 加勒比海盗2：聚魂棺
+- FM-051_Pirates_of_the_Caribbean_At_Worlds_End_加勒比海盗世界尽头.md — 加勒比海盗3：世界尽头
+- FM-052_Pirates_of_the_Caribbean_On_Stranger_Tides_加勒比海盗惊涛怪浪.md — 加勒比海盗4：惊涛怪浪
+- FM-053_Pirates_of_the_Caribbean_Dead_Men_Tell_No_Tales_加勒比海盗死无对证.md — 加勒比海盗5：死无对证
+- FM-054_Blade_Runner_银翼杀手.md — 银翼杀手
+- FM-055_Tomorrowland_明日世界.md — 明日世界
+- FM-056_Avatar_阿凡达.md — 阿凡达
+- FM-057_Avatar_The_Way_of_Water_阿凡达水之道.md — 阿凡达：水之道
+- FM-058_Ant-Man_蚁人.md — 蚁人
+- FM-059_Ant-Man_and_the_Wasp_蚁人黄蜂女现身.md — 蚁人2：黄蜂女现身
+- FM-060_Ant-Man_and_the_Wasp_Quantumania_蚁人量子狂潮.md — 蚁人3：量子狂潮
+- FM-061_Doctor_Strange_奇异博士.md — 奇异博士
+- FM-062_Doctor_Strange_in_the_Multiverse_of_Madness_奇异博士疯狂多元宇宙.md — 奇异博士2：疯狂多元宇宙
+- index.md

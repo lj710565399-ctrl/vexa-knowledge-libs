@@ -3,9 +3,9 @@
 > 自动生成。列出 combat/shotcraft/abilities/films 四库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-06-16 09:19
+> 更新: 2026-06-16 09:20
 
-## combat (64)
+## combat (65)
 - FM-001_combat.md — 侵略机器
 - FM-002_combat.md — 木乃伊
 - FM-003_combat.md — 木乃伊归来
@@ -70,6 +70,7 @@
 - FM-062_combat.md — 奇异博士2：疯狂多元宇宙
 - FM-063_combat.md — 终结者
 - FM-064_combat.md — 终结者2：审判日
+- FM-065_combat.md — 终结者3：机器的觉醒
 
 ## shotcraft (65)
 - FM-001_shotcraft.md — 侵略机器

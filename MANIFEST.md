@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films 四库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-06-16 21:30
+> 更新: 2026-06-16 21:34
 
 ## combat (69)
 - FM-001_combat.md — 侵略机器
@@ -218,7 +218,7 @@
 - FM-068_abilities.md — 终结者：黑暗命运
 - FM-069_abilities.md — 环太平洋
 
-## films (70)
+## films (71)
 - FM-001 War Machine 侵略机器.md — 侵略机器
 - FM-002 The Mummy 木乃伊.md — 木乃伊
 - FM-003 The Mummy Returns 木乃伊归来.md — 木乃伊归来
@@ -288,4 +288,5 @@
 - FM-067_Terminator_Genisys_终结者创世纪.md — 终结者：创世纪
 - FM-068_Terminator_Dark_Fate_终结者黑暗命运.md — 终结者：黑暗命运
 - FM-069_Pacific_Rim_环太平洋.md — 环太平洋
+- FM-070_Pacific_Rim_Uprising_环太平洋雷霆再起.md — 环太平洋2：雷霆再起
 - index.md

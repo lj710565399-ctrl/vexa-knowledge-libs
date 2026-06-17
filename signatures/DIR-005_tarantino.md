@@ -1,5 +1,5 @@
 ---
-id: SIG-017
+id: DIR-005
 name_cn: 昆汀 / 话痨暴力
 name_en: Quentin Tarantino / Talky Violence
 tier: director
@@ -7,7 +7,7 @@ tags: [话痨张力, 章节体, 脚部特写, 突爆血浆, 致敬拼贴, 后备
 trigger: [昆汀, Tarantino, 话痨, 章节体, 脚部特写, 突爆血浆, 后备箱视角, 致敬]
 ---
 
-# SIG-017 · 昆汀 / 话痨暴力
+# DIR-005 · 昆汀 / 话痨暴力
 
 ## ① 一句话签名
 冗长机锋对白憋住张力、章节体结构、脚部特写与后备箱视角，然后一秒钟突爆血浆。

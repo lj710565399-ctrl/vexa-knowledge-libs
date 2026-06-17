@@ -1,5 +1,5 @@
 ---
-id: SIG-009
+id: ACT-009
 name_cn: 印尼突袭 / The Raid
 name_en: The Raid / Silat Brutal
 tier: action
@@ -7,7 +7,7 @@ tags: [狭窄空间, 残暴近战, 班卡苏拉, 长镜不留情, 环境杀招, 
 trigger: [突袭, TheRaid, 班卡苏拉, silat, 狭窄空间, 残暴近战, 清场, 室内格斗]
 ---
 
-# SIG-009 · 印尼突袭 / The Raid
+# ACT-009 · 印尼突袭 / The Raid
 
 ## ① 一句话签名
 狭窄走廊里的残暴近战、班卡苏拉硬实战、长镜不留情的连续血战，把室内清场拍到令人窒息。

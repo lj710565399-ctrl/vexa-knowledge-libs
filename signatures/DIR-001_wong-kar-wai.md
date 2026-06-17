@@ -1,5 +1,5 @@
 ---
-id: SIG-013
+id: DIR-001
 name_cn: 王家卫 / 情绪霓虹
 name_en: Wong Kar-wai / Mood Neon
 tier: director
@@ -7,7 +7,7 @@ tags: [抽帧, 手持, 霓虹, 情绪先于叙事, 暧昧, 潮湿]
 trigger: [王家卫, 抽帧, 手持, 霓虹, 情绪, 暧昧, step-printing]
 ---
 
-# SIG-013 · 王家卫 / 情绪霓虹
+# DIR-001 · 王家卫 / 情绪霓虹
 
 ## ① 一句话签名
 抽帧拖影、贴身手持、霓虹与潮湿、情绪永远先于叙事——氛围就是故事本身。

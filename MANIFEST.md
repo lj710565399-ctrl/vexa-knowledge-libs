@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films 四库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-06-17 18:17
+> 更新: 2026-06-17 20:11
 
 ## combat (70)
 - FM-001_combat.md — 侵略机器
@@ -295,28 +295,28 @@
 - index.md
 
 ## signatures (25)
-- SIG-001_woo.md
-- SIG-002_donnie-yen-wingchun.md
-- SIG-003_jackie-chan.md
-- SIG-004_bruce-lee.md
-- SIG-005_zhang-yimou.md
-- SIG-006_gun-fu.md
-- SIG-007_kitano.md
-- SIG-008_shaw-brothers.md
-- SIG-009_the-raid.md
-- SIG-010_tony-jaa.md
-- SIG-011_yuen-woo-ping.md
-- SIG-012_mcu.md
-- SIG-013_wong-kar-wai.md
-- SIG-014_nolan.md
-- SIG-015_villeneuve.md
-- SIG-016_fincher.md
-- SIG-017_tarantino.md
-- SIG-018_michael-bay.md
-- SIG-019_mad-max.md
-- SIG-020_refn.md
-- SIG-021_ridley-scott.md
-- SIG-022_cameron.md
-- SIG-023_wachowski.md
-- SIG-024_johnnie-to.md
+- ACT-001_woo.md
+- ACT-002_donnie-yen-wingchun.md
+- ACT-003_jackie-chan.md
+- ACT-004_bruce-lee.md
+- ACT-005_zhang-yimou.md
+- ACT-006_gun-fu.md
+- ACT-007_kitano.md
+- ACT-008_shaw-brothers.md
+- ACT-009_the-raid.md
+- ACT-010_tony-jaa.md
+- ACT-011_yuen-woo-ping.md
+- ACT-012_mcu.md
+- DIR-001_wong-kar-wai.md
+- DIR-002_nolan.md
+- DIR-003_villeneuve.md
+- DIR-004_fincher.md
+- DIR-005_tarantino.md
+- DIR-006_michael-bay.md
+- DIR-007_mad-max.md
+- DIR-008_refn.md
+- DIR-009_ridley-scott.md
+- DIR-010_cameron.md
+- DIR-011_wachowski.md
+- DIR-012_johnnie-to.md
 - index.md

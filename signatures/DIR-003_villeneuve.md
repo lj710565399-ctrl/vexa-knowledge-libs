@@ -1,5 +1,5 @@
 ---
-id: SIG-015
+id: DIR-003
 name_cn: 维伦纽瓦 / 极简巨构
 name_en: Denis Villeneuve / Minimal Monolith
 tier: director
@@ -7,7 +7,7 @@ tags: [极简大景, 雾霾巨构, 缓慢推进, 单色块, 尺度压迫]
 trigger: [维伦纽瓦, Villeneuve, 极简大景, 雾霾巨构, 缓慢推进, 单色块, 沙丘, 银翼杀手]
 ---
 
-# SIG-015 · 维伦纽瓦 / 极简巨构
+# DIR-003 · 维伦纽瓦 / 极简巨构
 
 ## ① 一句话签名
 极简大景、雾霾中的巨构剪影、极慢推进与单色块，用尺度的压迫感让人渺小到失语。

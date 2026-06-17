@@ -1,5 +1,5 @@
 ---
-id: SIG-014
+id: DIR-002
 name_cn: 诺兰 / 实拍时间
 name_en: Christopher Nolan / Practical Time
 tier: director
@@ -7,7 +7,7 @@ tags: [实拍, IMAX, 时间结构, 交叉剪辑, 宏大实景]
 trigger: [诺兰, IMAX, 实拍, 时间结构, 交叉剪辑, 非线性, 宏大]
 ---
 
-# SIG-014 · 诺兰 / 实拍时间
+# DIR-002 · 诺兰 / 实拍时间
 
 ## ① 一句话签名
 实拍质感、IMAX 巨幕、交错的时间结构与平行剪辑，宏大冷峻、智性张力拉满。

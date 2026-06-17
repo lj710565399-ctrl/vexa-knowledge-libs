@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films 四库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-06-17 15:35
+> 更新: 2026-06-17 15:55
 
 ## combat (70)
 - FM-001_combat.md — 侵略机器
@@ -294,7 +294,7 @@
 - FM-070_Pacific_Rim_Uprising_环太平洋雷霆再起.md — 环太平洋2：雷霆再起
 - index.md
 
-## signatures (13)
+## signatures (15)
 - SIG-001_woo.md
 - SIG-002_donnie-yen-wingchun.md
 - SIG-003_jackie-chan.md
@@ -307,4 +307,6 @@
 - SIG-010_villeneuve.md
 - SIG-011_fincher.md
 - SIG-012_tarantino.md
+- SIG-013_shaw-brothers.md
+- SIG-014_michael-bay.md
 - index.md

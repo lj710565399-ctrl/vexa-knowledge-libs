@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films 四库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-06-17 16:10
+> 更新: 2026-06-17 18:17
 
 ## combat (70)
 - FM-001_combat.md — 侵略机器
@@ -302,21 +302,21 @@
 - SIG-005_zhang-yimou.md
 - SIG-006_gun-fu.md
 - SIG-007_kitano.md
-- SIG-008_wong-kar-wai.md
-- SIG-009_nolan.md
-- SIG-010_villeneuve.md
-- SIG-011_fincher.md
-- SIG-012_tarantino.md
-- SIG-013_shaw-brothers.md
-- SIG-014_michael-bay.md
-- SIG-015_mad-max.md
-- SIG-016_refn.md
-- SIG-017_ridley-scott.md
-- SIG-018_cameron.md
-- SIG-019_wachowski.md
-- SIG-020_johnnie-to.md
-- SIG-021_the-raid.md
-- SIG-022_tony-jaa.md
-- SIG-023_yuen-woo-ping.md
-- SIG-024_mcu.md
+- SIG-008_shaw-brothers.md
+- SIG-009_the-raid.md
+- SIG-010_tony-jaa.md
+- SIG-011_yuen-woo-ping.md
+- SIG-012_mcu.md
+- SIG-013_wong-kar-wai.md
+- SIG-014_nolan.md
+- SIG-015_villeneuve.md
+- SIG-016_fincher.md
+- SIG-017_tarantino.md
+- SIG-018_michael-bay.md
+- SIG-019_mad-max.md
+- SIG-020_refn.md
+- SIG-021_ridley-scott.md
+- SIG-022_cameron.md
+- SIG-023_wachowski.md
+- SIG-024_johnnie-to.md
 - index.md

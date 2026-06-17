@@ -1,5 +1,5 @@
 ---
-id: SIG-014
+id: SIG-018
 name_cn: 迈克尔·贝 / Bayhem
 name_en: Michael Bay / Bayhem
 tier: director
@@ -7,7 +7,7 @@ tags: [低角度英雄, 360环绕, 黄金时刻逆光, 慢镜爆炸, 快剪, 青
 trigger: [迈克尔贝, 迈克尔·贝, Bay, Bayhem, 变形金刚, 360环绕, 低角度仰拍, 黄金时刻, 爆炸, 青橙调]
 ---
 
-# SIG-014 · 迈克尔·贝 / Bayhem
+# SIG-018 · 迈克尔·贝 / Bayhem
 
 ## ① 一句话签名
 低角度仰拍的英雄崇拜、360°环绕旋转、黄金时刻逆光橙调、慢镜碎片爆炸，运动镜头永不停歇的肾上腺素轰炸。

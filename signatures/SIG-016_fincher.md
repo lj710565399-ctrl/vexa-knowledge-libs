@@ -1,5 +1,5 @@
 ---
-id: SIG-011
+id: SIG-016
 name_cn: 芬奇 / 精密冷调
 name_en: David Fincher / Clinical Precision
 tier: director
@@ -7,7 +7,7 @@ tags: [精密冷调, 零随机机位, 暗部绿, 隐形CG, 控制感]
 trigger: [芬奇, Fincher, 精密冷调, 暗部绿, 隐形CG, 控制, 七宗罪, 社交网络]
 ---
 
-# SIG-011 · 芬奇 / 精密冷调
+# SIG-016 · 芬奇 / 精密冷调
 
 ## ① 一句话签名
 每一帧都被精密计算、零随机的机位、压暗的绿调与隐形 CG，冷静控制到令人不安。

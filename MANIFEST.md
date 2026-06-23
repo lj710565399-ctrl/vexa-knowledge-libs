@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films/signatures 五库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-06-23 13:41
+> 更新: 2026-06-23 13:42
 
 ## combat (72)
 - FM-001_combat.md — 侵略机器

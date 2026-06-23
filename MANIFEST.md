@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films/signatures 五库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-06-23 19:05
+> 更新: 2026-06-23 19:15
 
 ## combat (73)
 - FM-001_combat.md — 侵略机器
@@ -306,7 +306,7 @@
 - FM-073_Ghost_Rider_Spirit_of_Vengeance_恶灵骑士复仇时刻.md — 恶灵骑士2：复仇时刻
 - index.md
 
-## signatures (37)
+## signatures (45)
 - ACT-001_woo.md
 - ACT-002_donnie-yen-wingchun.md
 - ACT-003_jackie-chan.md
@@ -325,6 +325,14 @@
 - ACT-016_rajamouli.md
 - ACT-017_kurosawa.md
 - ACT-018_stanley-tong.md
+- ACT-019_korean-zombie-horde.md
+- ACT-020_muay-thai-clinch.md
+- ACT-021_kenshin-chanbara.md
+- ACT-022_silat-blade-carnage.md
+- ACT-023_parkour-chase.md
+- ACT-024_kaiju-destruction.md
+- ACT-025_boxing-ring.md
+- ACT-026_medieval-army-melee.md
 - DIR-001_wong-kar-wai.md
 - DIR-002_nolan.md
 - DIR-003_villeneuve.md

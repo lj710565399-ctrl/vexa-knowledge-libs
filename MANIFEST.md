@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films/signatures 五库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-06-23 13:52
+> 更新: 2026-06-23 19:05
 
 ## combat (73)
 - FM-001_combat.md — 侵略机器
@@ -306,7 +306,7 @@
 - FM-073_Ghost_Rider_Spirit_of_Vengeance_恶灵骑士复仇时刻.md — 恶灵骑士2：复仇时刻
 - index.md
 
-## signatures (25)
+## signatures (37)
 - ACT-001_woo.md
 - ACT-002_donnie-yen-wingchun.md
 - ACT-003_jackie-chan.md
@@ -319,6 +319,12 @@
 - ACT-010_tony-jaa.md
 - ACT-011_yuen-woo-ping.md
 - ACT-012_mcu.md
+- ACT-013_donnie-yen-spl.md
+- ACT-014_wu-jing.md
+- ACT-015_ryoo-seung-wan.md
+- ACT-016_rajamouli.md
+- ACT-017_kurosawa.md
+- ACT-018_stanley-tong.md
 - DIR-001_wong-kar-wai.md
 - DIR-002_nolan.md
 - DIR-003_villeneuve.md
@@ -331,4 +337,10 @@
 - DIR-010_cameron.md
 - DIR-011_wachowski.md
 - DIR-012_johnnie-to.md
+- DIR-013_jiang-wen.md
+- DIR-014_guo-fan.md
+- DIR-015_tsui-hark.md
+- DIR-016_kubrick.md
+- DIR-017_park-chan-wook.md
+- DIR-018_lynch.md
 - index.md

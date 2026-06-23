@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films/signatures 五库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-06-23 11:59
+> 更新: 2026-06-23 13:41
 
 ## combat (72)
 - FM-001_combat.md — 侵略机器
@@ -77,7 +77,7 @@
 - FM-069_combat.md — 环太平洋
 - FM-070_combat.md — 环太平洋2：雷霆再起
 - FM-071_combat.md — 镖人：风起大漠
-- FM-072_combat.md — 恶灵骑士系列
+- FM-072_combat.md — 恶灵骑士
 
 ## shotcraft (72)
 - FM-001_shotcraft.md — 侵略机器
@@ -151,7 +151,7 @@
 - FM-069_shotcraft.md — 环太平洋
 - FM-070_shotcraft.md — 环太平洋2：雷霆再起
 - FM-071_shotcraft.md — 镖人：风起大漠
-- FM-072_shotcraft.md — 恶灵骑士系列
+- FM-072_shotcraft.md — 恶灵骑士
 
 ## abilities (72)
 - FM-001_abilities.md — 侵略机器
@@ -225,7 +225,7 @@
 - FM-069_abilities.md — 环太平洋
 - FM-070_abilities.md — 环太平洋2：雷霆再起
 - FM-071_abilities.md — 镖人：风起大漠
-- FM-072_abilities.md — 恶灵骑士系列
+- FM-072_abilities.md — 恶灵骑士
 
 ## films (73)
 - FM-001 War Machine 侵略机器.md — 侵略机器
@@ -299,7 +299,7 @@
 - FM-069_Pacific_Rim_环太平洋.md — 环太平洋
 - FM-070_Pacific_Rim_Uprising_环太平洋雷霆再起.md — 环太平洋2：雷霆再起
 - FM-071_The_Blade_Storm_Over_the_Desert_镖人风起大漠.md — 镖人：风起大漠
-- FM-072_Ghost_Rider_Series_恶灵骑士系列.md — 恶灵骑士系列
+- FM-072_Ghost_Rider_恶灵骑士.md — 恶灵骑士
 - index.md
 
 ## signatures (25)

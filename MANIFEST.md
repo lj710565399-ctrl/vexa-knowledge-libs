@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films/signatures 五库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-07-13 09:08
+> 更新: 2026-07-16 21:43
 
 ## combat (77)
 - FM-001_combat.md — 侵略机器
@@ -322,7 +322,7 @@
 - FM-077_Blue_Beetle_蓝甲虫.md — 蓝甲虫
 - index.md
 
-## signatures (45)
+## signatures (46)
 - ACT-001_woo.md
 - ACT-002_donnie-yen-wingchun.md
 - ACT-003_jackie-chan.md
@@ -367,4 +367,5 @@
 - DIR-016_kubrick.md
 - DIR-017_park-chan-wook.md
 - DIR-018_lynch.md
+- DIR-019_stephen-chow.md
 - index.md

@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films/signatures 五库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-07-18 22:38
+> 更新: 2026-07-18 22:40
 
 ## combat (77)
 - FM-001_combat.md — 侵略机器
@@ -164,7 +164,7 @@
 - FM-077_shotcraft.md — 蓝甲虫
 - FM-078_shotcraft.md — 诸神之战
 
-## abilities (77)
+## abilities (78)
 - FM-001_abilities.md — 侵略机器
 - FM-002_abilities.md — 木乃伊
 - FM-003_abilities.md — 木乃伊归来
@@ -242,6 +242,7 @@
 - FM-075_abilities.md — 人工杀姬
 - FM-076_abilities.md — 绿灯侠
 - FM-077_abilities.md — 蓝甲虫
+- FM-078_abilities.md — 诸神之战
 
 ## films (79)
 - FM-001 War Machine 侵略机器.md — 侵略机器

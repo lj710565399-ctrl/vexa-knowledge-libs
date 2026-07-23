@@ -5,7 +5,7 @@
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
 > 更新: 2026-07-23 21:24
 
-## combat (83)
+## combat (84)
 - FM-001_combat.md — 侵略机器
 - FM-002_combat.md — 木乃伊
 - FM-003_combat.md — 木乃伊归来
@@ -89,6 +89,7 @@
 - FM-081_combat.md — 机械姬
 - FM-082_combat.md — 信条
 - FM-083_combat.md — 月球
+- FM-084_combat.md — 太阳浩劫
 
 ## shotcraft (84)
 - FM-001_shotcraft.md — 侵略机器

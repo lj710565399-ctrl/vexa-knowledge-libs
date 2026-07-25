@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films/signatures/looks 六库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-07-25 13:09
+> 更新: 2026-07-25 13:24
 
 ## combat (86)
 - FM-001_combat.md — 侵略机器
@@ -406,7 +406,7 @@
 - DIR-019_stephen-chow.md — 周星驰 / 无厘头悲喜剧｜触发：周星驰 星爷 无厘头 功夫 喜剧之王 大话西游
 - index.md
 
-## looks (11)
+## looks (21)
 - LOOK-001_cold-clinical-scifi.md — 冷科幻临床 / Cold Clinical Sci-fi｜触发：科幻 实验室 AI 空间站 冷 临床
 - LOOK-002_neon-rain-noir.md — 霓虹雨夜 / Neon Rain Noir｜触发：霓虹 雨 夜 街 赛博 洗脚城
 - LOOK-003_warm-memory-bleach.md — 暖调回忆 / Warm Memory｜触发：回忆 温情 过去 黄昏 家 拥抱
@@ -417,4 +417,14 @@
 - LOOK-008_biolucent-shimmer.md — 生态异变梦核 / Biolucent Shimmer｜触发：异变 生态 变异 梦幻 折射 光晕
 - LOOK-009_teal-orange-blockbuster.md — 青橙大片 / Teal & Orange Blockbuster｜触发：动作 大片 商业 通用 干净 主视觉
 - LOOK-010_noir-gold-lowkey.md — 黑金奢华低调 / Noir Gold Low-key｜触发：酒吧 密谈 权力 室内 暖灯 奢华
+- LOOK-011_gilded-tomb-amber.md — 古墓鎏金琥珀 / Gilded Tomb Amber｜触发：古墓 墓室 神殿 祭坛 火把 象形
+- LOOK-012_moonlit-silver-night.md — 月夜冷银 / Moonlit Silver Night｜触发：月光 月夜 夜外景 荒野 屋顶 沙丘夜
+- LOOK-013_monochrome-high-contrast.md — 高反差黑白 / Monochrome High Contrast｜触发：黑白 单色 闪回 记忆 档案 新闻
+- LOOK-014_surveillance-lofi.md — 监控低画质数字 / Surveillance Lo-fi Video｜触发：监控 摄像头 CCTV HUD 护目镜视角 扫描线
+- LOOK-015_firelight-explosion.md — 火光爆燃暖橙 / Firelight & Explosion Warmth｜触发：爆炸 火 燃烧 火灾 交火 爆燃
+- LOOK-016_underwater-caustics.md — 水下幽蓝焦散 / Underwater Caustics｜触发：水下 潜水 溺水 水池 蓄水池 沉没
+- LOOK-017_dawn-mist-soft.md — 晨雾柔光 / Dawn Mist Soft｜触发：黎明 清晨 日出 雾 告别 和解
+- LOOK-018_strobe-club-psychedelia.md — 频闪夜店迷幻 / Strobe Club Psychedelia｜触发：夜店 酒吧内场 舞池 派对 频闪 激光
+- LOOK-019_clean-commercial-tech.md — 干净商业科技 / Clean Commercial Tech｜触发：产品 广告 发布会 企业 总部 大堂
+- LOOK-020_ashen-winter-bleak.md — 末日灰烬冷寂 / Ashen Winter Bleak｜触发：末日 灰烬 雪 冬 阴天 荒凉
 - index.md

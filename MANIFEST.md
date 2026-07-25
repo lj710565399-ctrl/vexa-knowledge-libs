@@ -1,9 +1,9 @@
 # VEXA-09 召回库清单 (manifest)
 
-> 自动生成。列出 combat/shotcraft/abilities/films/signatures 五库全部卡片。
+> 自动生成。列出 combat/shotcraft/abilities/films/signatures/looks 六库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-07-23 21:40
+> 更新: 2026-07-25 13:09
 
 ## combat (86)
 - FM-001_combat.md — 侵略机器
@@ -359,49 +359,62 @@
 - index.md
 
 ## signatures (46)
-- ACT-001_woo.md
-- ACT-002_donnie-yen-wingchun.md
-- ACT-003_jackie-chan.md
-- ACT-004_bruce-lee.md
-- ACT-005_zhang-yimou.md
-- ACT-006_gun-fu.md
-- ACT-007_kitano.md
-- ACT-008_shaw-brothers.md
-- ACT-009_the-raid.md
-- ACT-010_tony-jaa.md
-- ACT-011_yuen-woo-ping.md
-- ACT-012_mcu.md
-- ACT-013_donnie-yen-spl.md
-- ACT-014_wu-jing.md
-- ACT-015_ryoo-seung-wan.md
-- ACT-016_rajamouli.md
-- ACT-017_kurosawa.md
-- ACT-018_stanley-tong.md
-- ACT-019_korean-zombie-horde.md
-- ACT-020_muay-thai-clinch.md
-- ACT-021_kenshin-chanbara.md
-- ACT-022_silat-blade-carnage.md
-- ACT-023_parkour-chase.md
-- ACT-024_kaiju-destruction.md
-- ACT-025_boxing-ring.md
-- ACT-026_medieval-army-melee.md
-- DIR-001_wong-kar-wai.md
-- DIR-002_nolan.md
-- DIR-003_villeneuve.md
-- DIR-004_fincher.md
-- DIR-005_tarantino.md
-- DIR-006_michael-bay.md
-- DIR-007_mad-max.md
-- DIR-008_refn.md
-- DIR-009_ridley-scott.md
-- DIR-010_cameron.md
-- DIR-011_wachowski.md
-- DIR-012_johnnie-to.md
-- DIR-013_jiang-wen.md
-- DIR-014_guo-fan.md
-- DIR-015_tsui-hark.md
-- DIR-016_kubrick.md
-- DIR-017_park-chan-wook.md
-- DIR-018_lynch.md
-- DIR-019_stephen-chow.md
+- ACT-001_woo.md — 吴宇森 / 英雄本色（暴力浪漫）｜触发：吴宇森 英雄本色 双枪 暴力美学 暴力浪漫 白鸽
+- ACT-002_donnie-yen-wingchun.md — 甄子丹 / 叶问·咏春｜触发：甄子丹 叶问 咏春 寸劲 连环快拳 木人桩
+- ACT-003_jackie-chan.md — 成龙式功夫喜剧｜触发：成龙 功夫喜剧 环境互动 道具借力 杂耍打斗 险中带谐
+- ACT-004_bruce-lee.md — 李小龙 / 截拳道｜触发：李小龙 截拳道 极简爆发 节奏停顿 蓄势 一击制敌
+- ACT-005_zhang-yimou.md — 张艺谋 / 武侠写意｜触发：张艺谋 英雄 武侠写意 色彩分章 漫天箭 慢镜诗意
+- ACT-006_gun-fu.md — 87不眠夜 / 疾速追杀（gun-fu）｜触发：疾速追杀 约翰威克 gun-fu 枪械柔术 长镜走位 近距连杀
+- ACT-007_kitano.md — 北野武 / 静默暴力｜触发：北野武 静默暴力 固定长镜 零预兆 突爆 留白
+- ACT-008_shaw-brothers.md — 邵氏 / 硬桥硬马｜触发：邵氏 邵氏兄弟 硬桥硬马 变焦 定格亮相 师徒复仇
+- ACT-009_the-raid.md — 印尼突袭 / The Raid｜触发：突袭 TheRaid 班卡苏拉 silat 狭窄空间 残暴近战
+- ACT-010_tony-jaa.md — 托尼·贾 / 泰拳拳霸｜触发：托尼贾 拳霸 muaythai 泰拳 肘膝 无威亚
+- ACT-011_yuen-woo-ping.md — 袁和平 / 吊威亚写意｜触发：袁和平 吊威亚 wirefu 卧虎藏龙 凌空 轻功
+- ACT-012_mcu.md — 漫威 MCU / 团队动作｜触发：漫威 MCU 复仇者 团队动作 群战 能力配合
+- ACT-013_donnie-yen-spl.md — 甄子丹 / SPL现代综合格斗｜触发：甄子丹 杀破狼 SPL MMA 综合格斗 关节技
+- ACT-014_wu-jing.md — 吴京 / 战狼现代军事硬动作｜触发：吴京 战狼 军事动作 CQB 长镜头 实战
+- ACT-015_ryoo-seung-wan.md — 류승완 / 韩国生猛肉搏｜触发：柳承完 류승완 老手 不当交易 韩国动作 生猛
+- ACT-016_rajamouli.md — SS·拉贾穆里 / RRR神话过载动作｜触发：拉贾穆里 RRR 巴霍巴利 神话 过载 升格
+- ACT-017_kurosawa.md — 黑泽明 / 武士剑戟杀阵｜触发：黑泽明 武士 剑戟 杀阵 七武士 一击决胜
+- ACT-018_stanley-tong.md — 唐季礼 / 现代搏命特技｜触发：唐季礼 红番区 搏命特技 真实特技 飞车 高空坠落
+- ACT-019_korean-zombie-horde.md — 韩国丧尸群战 / 釜山行·王国｜触发：釜山行 王国 丧尸 尸潮 群战 封闭空间
+- ACT-020_muay-thai-clinch.md — 泰拳八肢肘膝绞杀 / 硬肘深化｜触发：泰拳 八肢 硬肘 膝击 内围 箍颈
+- ACT-021_kenshin-chanbara.md — 日本剑戟现代化 / 浪客剑心｜触发：浪客剑心 剑戟 拔刀 居合 一对多 剑阵
+- ACT-022_silat-blade-carnage.md — 印尼利刃地狱 / silat深化｜触发：印尼 silat 利刃 铁雨 砍刀 血腥
+- ACT-023_parkour-chase.md — 跑酷追逃 / 暴力13区｜触发：跑酷 暴力13区 parkour 楼宇穿越 追逃 翻越
+- ACT-024_kaiju-destruction.md — 巨兽破坏 / 哥斯拉·环太平洋｜触发：哥斯拉 环太平洋 巨兽 kaiju 巨物 城市破坏
+- ACT-025_boxing-ring.md — 拳台搏击 / 铁拳·奎迪｜触发：洛奇 奎迪 铁拳 拳击 擂台 搏击
+- ACT-026_medieval-army-melee.md — 冷兵器军团混战 / 勇敢的心·天国王朝｜触发：勇敢的心 天国王朝 军团 冲锋 混战 阵列
+- DIR-001_wong-kar-wai.md — 王家卫 / 情绪霓虹｜触发：王家卫 抽帧 手持 霓虹 情绪 暧昧
+- DIR-002_nolan.md — 诺兰 / 实拍时间｜触发：诺兰 IMAX 实拍 时间结构 交叉剪辑 非线性
+- DIR-003_villeneuve.md — 维伦纽瓦 / 极简巨构｜触发：维伦纽瓦 Villeneuve 极简大景 雾霾巨构 缓慢推进 单色块
+- DIR-004_fincher.md — 芬奇 / 精密冷调｜触发：芬奇 Fincher 精密冷调 暗部绿 隐形CG 控制
+- DIR-005_tarantino.md — 昆汀 / 话痨暴力｜触发：昆汀 Tarantino 话痨 章节体 脚部特写 突爆血浆
+- DIR-006_michael-bay.md — 迈克尔·贝 / Bayhem｜触发：迈克尔贝 迈克尔·贝 Bay Bayhem 变形金刚 360环绕
+- DIR-007_mad-max.md — 乔治·米勒 / 疯狂麦克斯｜触发：乔治米勒 疯狂麦克斯 MadMax 废土飞车 追逐 引擎美学
+- DIR-008_refn.md — 雷弗恩 / 霓虹冷暴力｜触发：雷弗恩 Refn 亡命驾驶 DriVE 霓虹冷暴力 粉紫霓虹
+- DIR-009_ridley-scott.md — 雷德利·斯科特 / 银翼杀手｜触发：雷德利斯科特 银翼杀手 BladeRunner 烟雾霓虹 酸雨 巨构
+- DIR-010_cameron.md — 詹姆斯·卡梅隆 / 硬核科幻｜触发：卡梅隆 詹姆斯卡梅隆 终结者 异形 硬核科幻 机械义体
+- DIR-011_wachowski.md — 沃卓斯基 / 黑客帝国｜触发：沃卓斯基 黑客帝国 Matrix 子弹时间 数字雨 绿调
+- DIR-012_johnnie-to.md — 杜琪峰 / 银河映像｜触发：杜琪峰 银河映像 枪火 放逐 港式枪战 静默对峙
+- DIR-013_jiang-wen.md — 姜文 / 荷尔蒙暴烈｜触发：姜文 让子弹飞 阳光灿烂 荷尔蒙 暴烈 仪式感
+- DIR-014_guo-fan.md — 郭帆 / 中国科幻工业｜触发：郭帆 流浪地球 中国科幻 重工业 巨构 末世
+- DIR-015_tsui-hark.md — 徐克 / 新派武侠天马行空｜触发：徐克 黄飞鸿 新派武侠 天马行空 飞檐走壁 奇观
+- DIR-016_kubrick.md — 库布里克 / 对称冷峻单点透视｜触发：库布里克 Kubrick 单点透视 对称 闪灵 2001太空漫游
+- DIR-017_park-chan-wook.md — 朴赞郁 / 复仇美学·暴力优雅｜触发：朴赞郁 老男孩 小姐 复仇 暴力美学 优雅
+- DIR-018_lynch.md — 大卫·林奇 / 超现实噩梦｜触发：林奇 Lynch 双峰 穆赫兰道 超现实 噩梦
+- DIR-019_stephen-chow.md — 周星驰 / 无厘头悲喜剧｜触发：周星驰 星爷 无厘头 功夫 喜剧之王 大话西游
+- index.md
+
+## looks (11)
+- LOOK-001_cold-clinical-scifi.md — 冷科幻临床 / Cold Clinical Sci-fi｜触发：科幻 实验室 AI 空间站 冷 临床
+- LOOK-002_neon-rain-noir.md — 霓虹雨夜 / Neon Rain Noir｜触发：霓虹 雨 夜 街 赛博 洗脚城
+- LOOK-003_warm-memory-bleach.md — 暖调回忆 / Warm Memory｜触发：回忆 温情 过去 黄昏 家 拥抱
+- LOOK-004_desert-dust-wasteland.md — 沙尘废土 / Desert Dust Wasteland｜触发：沙漠 废土 沙尘 荒原 白天 烈日
+- LOOK-005_horror-lowkey-dread.md — 惊悚幽闭暗调 / Horror Low-key Dread｜触发：惊悚 恐怖 潜行 黑暗 幽闭 追杀
+- LOOK-006_16mm-doc-grain.md — 胶片纪实粗颗粒 / 16mm Doc Grain｜触发：纪实 伪纪录 手持 采访 街头 现场
+- LOOK-007_hard-sun-vacuum.md — 太空硬光真空 / Hard Sunlight Vacuum｜触发：太空 真空 太阳 宇宙 飞船外 舱外
+- LOOK-008_biolucent-shimmer.md — 生态异变梦核 / Biolucent Shimmer｜触发：异变 生态 变异 梦幻 折射 光晕
+- LOOK-009_teal-orange-blockbuster.md — 青橙大片 / Teal & Orange Blockbuster｜触发：动作 大片 商业 通用 干净 主视觉
+- LOOK-010_noir-gold-lowkey.md — 黑金奢华低调 / Noir Gold Low-key｜触发：酒吧 密谈 权力 室内 暖灯 奢华
 - index.md

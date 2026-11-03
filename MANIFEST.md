@@ -3,7 +3,7 @@
 > 自动生成。列出 combat/shotcraft/abilities/films/signatures/looks 六库全部卡片。
 > 桌面端 shotlist 技能用 raw URL 抓本文件来确定库里有哪些卡，避免走限流的 GitHub API。
 > raw: https://raw.githubusercontent.com/lj710565399-ctrl/vexa-knowledge-libs/master/MANIFEST.md
-> 更新: 2026-10-27 15:33
+> 更新: 2026-11-03 22:40
 
 ## combat (87)
 - FM-001_combat.md — 侵略机器
@@ -94,7 +94,7 @@
 - FM-086_combat.md — 造物主
 - FM-087_combat.md — 木星上行
 
-## shotcraft (87)
+## shotcraft (88)
 - FM-001_shotcraft.md — 侵略机器
 - FM-002_shotcraft.md — 木乃伊
 - FM-003_shotcraft.md — 木乃伊归来
@@ -182,6 +182,7 @@
 - FM-085_shotcraft.md — 湮灭
 - FM-086_shotcraft.md — 造物主
 - FM-087_shotcraft.md — 木星上行
+- FM-088_shotcraft.md — 空枪
 
 ## abilities (87)
 - FM-001_abilities.md — 侵略机器
@@ -272,7 +273,7 @@
 - FM-086_abilities.md — 造物主
 - FM-087_abilities.md — 木星上行
 
-## films (88)
+## films (89)
 - FM-001 War Machine 侵略机器.md — 侵略机器
 - FM-002 The Mummy 木乃伊.md — 木乃伊
 - FM-003 The Mummy Returns 木乃伊归来.md — 木乃伊归来
@@ -360,6 +361,7 @@
 - FM-085_Annihilation_湮灭.md — 湮灭
 - FM-086_The_Creator_造物主.md — 造物主
 - FM-087_Jupiter_Ascending_木星上行.md — 木星上行
+- FM-088_Empty_Gun_空枪.md — 空枪
 - index.md
 
 ## signatures (46)
